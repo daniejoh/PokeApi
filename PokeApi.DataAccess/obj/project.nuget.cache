@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9BBbiHzM5hq3uFYnHtBMo20cQqSphH/TtV7CHqqAEkgDCwnpZ1yxP8hbwpcjUZNPwb3o8UCCgUP/u7NP6x8Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\PokeApi\\PokeApi.DataAccess\\PokeApi.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
